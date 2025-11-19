@@ -3,8 +3,6 @@
 
 <div align="left">As a Computer Science student, I’ve built a strong foundation in Python, SQL, statistics, and machine learning, using each project to turn raw data into meaningful insights. I love the blend of logic and creativity — transforming messy datasets into clear visual narratives and uncovering patterns and predicting outcomes through data.</div>
 <br/>
-<div align="left">I’m driven by curiosity, collaboration, and continuous learning, and I’m now seeking opportunities to apply and expand my data science and machine learning skills on impactful projects.</div>
-<br/>
 
 <h3 align="left">TECHNOLOGIES</h3>
 <div align="left">
