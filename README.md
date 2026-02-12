@@ -11,9 +11,9 @@
 - Machine Learning 
   
 ## Technical Skills
-<a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=python,html,css,flask,fastapi,mysql,&titles=true"/></a>
-<a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow&titles=true"/></a>
-<a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,jupyter,googlecolab,git,github&titles=true"/></a>
+- Programming Languages: <a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=python,html,css,flask,fastapi,mysql,&titles=true"/></a><br/>
+- Libraries: <a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow&titles=true"/></a><br/>
+- Tools & Platforms: <a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,jupyter,googlecolab,git,github&titles=true"/></a>
 
 ## Projects
 - House Price Prediction
