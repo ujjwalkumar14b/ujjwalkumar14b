@@ -1,7 +1,8 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
+
 ## About Me
-<p>Data Scientist with a strong foundation in Mathematics, Data Analysis and Machine Learning. I am interested in transforming raw data into actionable insights and building data-driven solutions to real-world problems.</p>
+<p>Data Scientist with a strong foundation in Mathematics (Probability and Statistics), Data Analysis and Machine Learning. I am interested in transforming raw data into actionable insights and building data-driven solutions to real-world problems.</p>
 
 ## Areas of Interest
 - Data Analysis
@@ -10,10 +11,9 @@
 - Machine Learning 
   
 ## Technical Skills
-- Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL.
-- Machine Learning: Scikit-learn, Regression, Classification, Clustering ML Techniques.
-- Mathematics: Calculus, Linear algebra, Probability and Statistics.
-- Tools & Platforms: PyCharm, Jupyter Notebook, Visual Studio Code, Git & GitHub.
+<a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=python,html,css,flask,fastapi,mysql,&titles=true"/></a>
+<a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow&titles=true"/></a>
+<a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,jupyter,googlecolab,git,github&titles=true"/></a>
 
 ## Projects
 - House Price Prediction
