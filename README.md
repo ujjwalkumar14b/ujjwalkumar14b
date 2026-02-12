@@ -1,4 +1,7 @@
 <h1 align="center">UJJWAL KUMAR</h1>
+<h2 align="center">Data Scientist | Machine Learning</h2>
+
+## About Me
 <p>Data Scientist with a strong foundation in Mathematics, Data Analysis and Machine Learning. I am interested in transforming raw data into actionable insights and building data-driven solutions to real-world problems.</p>
 
 ## Areas of Interest
