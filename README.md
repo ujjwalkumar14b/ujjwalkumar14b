@@ -1,6 +1,6 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
-<p>Aspiring Data Scientist with hands-on project experience in data analysis, machine learning, and statistical modeling, focused on transforming raw data into actionable business insights. I work across the end-to-end data science lifecycle, including data collection, data cleaning, exploratory data analysis (EDA), feature engineering, model development, evaluation, and visualization.</p>
+<p>Aspiring Data Scientist with hands-on project experience in data analysis and machine learning, focused on transforming raw data into actionable business insights. I work across the end-to-end data science lifecycle, including data collection, data cleaning, exploratory data analysis (EDA), feature engineering, model development, evaluation, and visualization.</p>
 
 <p>I have hands-on experience using Python for data science, including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn, to perform data manipulation, predictive modeling, and data visualization. I use SQL extensively for querying, joining, and analyzing structured datasets. My workflow includes version control with Git and GitHub, and I regularly work in Jupyter Notebook and Visual Studio Code to build reproducible and scalable data solutions.</p>
 
