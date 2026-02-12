@@ -8,10 +8,8 @@
 <p>My interests include machine learning, predictive analytics, data-driven decision making, and building interpretable models that deliver real-world impact. I am comfortable collaborating in cross-functional teams, communicating insights to stakeholders, and continuously learning new tools and techniques in data science and analytics.</p>
 
 ## AREAS OF INTEREST 
-- Data Analysis
-- Data Science
-- Artificial Intelligence 
-- Machine Learning 
+- Data Analysis, Data Science
+- Artificial Intelligence, Machine Learning 
   
 ## TECHNICAL SKILLS
 <a href="#"><img src="https://skill-icons-fast.vercel.app/api/icons?i=python,html,css,flask,fastapi,mysql,&titles=true"/></a><br/>
@@ -40,10 +38,8 @@
 - Exploring applied machine learning use cases relevant to industry problems
 
 ## CAREER OBJECTIVE
-- Data Analyst
-- Data Scientist
-- Artificial Intelligence Engineer
-- Machine Learning Engineer
+- Data Analyst, Data Scientist
+- Artificial Intelligenc Engineer, Machine Learning Engineer
 
 ## CONNECT WITH ME
 - GitHub: https://github.com/ujjwalkumar14b
