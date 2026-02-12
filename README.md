@@ -21,7 +21,7 @@
 - Resume Parser using Natural Language Processing
 
 ## WHAT I’M CURRENTLY WORKING ON
-- Strengthening end-to-end machine learning workflows, from data collection to model evaluation
+- Strengthening end-to-end ML workflows from Data Collection to Model Evaluation
 - Improving data cleaning, feature engineering, and handling of real-world datasets
 - Practicing advanced SQL queries for data extraction and analysis
 - Enhancing statistical understanding for hypothesis testing and predictive modeling
