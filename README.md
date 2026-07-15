@@ -15,13 +15,9 @@
 - Tools: Git, GitHub, VS Code, PyCharm, Jupyter Notebook, Google Collab.
 
 ## Projects
-- Credit Card Fraud Detection
-- Credit Card Risk Prediction
-- Customer Churn Prediction
-- Customer Segmentation
-- Digit Recognition
-- Inventory Quality Analysis
-- PDF Based RAG Chatbot
-- PowerCo Analysis
+- Credit Card Risk Prediction and Fraud Detection (Supervised and Unsupervised Learning)
+- Customer Segmentation and Churn Prediction (Supervised and Unsupervised Learning)
+- Digit Recognition, Inventory Quality Analysis (CNN-Based Project)
+- PDF Based RAG Chatbot (Deep Learning Project)
 - Spam Email Detection
 - Trader Sentiment Analysis
