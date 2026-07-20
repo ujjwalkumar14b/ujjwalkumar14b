@@ -1,12 +1,11 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
 ## Professional Summary
-- BTech student and Aspiring Data Scientist.
+- Engineering Student. (Aug 2023 - Jun 2027)
 - Python Full Stack Developer at EduSkills Foundation. (Oct 2024 - Dec 2024)
 - Data Science Intern as AISECT LEARN. (Nov 2025 - Jan 2026)
 - AI/ML Intern at EduSkills Foundation. (Apr 2026 - Jun 2026)
-- Strong interest in Data Analysis, Data Science, Artificial Intelligence and Machine Learning.
-- Enthusiastic about open-source contributions, research, and collaborative projects in field of AI and ML.
+- Open to Data Science and Machine Learning opportunities. 
 
 ## Technical Skills
 - Data Science: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras), SQL.
@@ -15,9 +14,9 @@
 - Tools: Git, GitHub, VS Code, PyCharm, Jupyter Notebook, Google Collab.
 
 ## Projects
+- Trader Sentiment Analysis (Data Analysis Project)
 - Credit Card Risk Prediction and Fraud Detection (Supervised and Unsupervised Learning)
 - Customer Segmentation and Churn Prediction (Supervised and Unsupervised Learning)
 - Digit Recognition, Inventory Quality Analysis (CNN-Based Project)
 - PDF Based RAG Chatbot (Deep Learning Project)
-- Spam Email Detection
-- Trader Sentiment Analysis
+- Product Recommendation System (B.Tech Final Year Project)
