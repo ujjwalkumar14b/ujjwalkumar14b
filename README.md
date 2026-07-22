@@ -14,7 +14,7 @@
 - Tools: Git, GitHub, VS Code, PyCharm, Jupyter Notebook, Google Collab.
 
 ## Projects
-- Trader Sentiment Analysis (Data Analysis Project)
+- Customer Behavior Analysis, Trader Sentiment Analysis (Data Analysis Project)
 - Credit Card Risk Prediction and Fraud Detection (Supervised and Unsupervised Learning)
 - Customer Segmentation and Churn Prediction (Supervised and Unsupervised Learning)
 - Digit Recognition, Inventory Quality Analysis (CNN-Based Project)
