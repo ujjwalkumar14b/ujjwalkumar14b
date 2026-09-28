@@ -5,10 +5,10 @@
 - Full Stack Developer at EduSkills Foundation. (Oct 2024 - Dec 2024)
 - Data Science Intern at AISECT LEARN. (Nov 2025 - Jan 2026)
 - AI-ML Intern at Codomax Digital Solutions. (Jul 2026 - Aug 2026)
-- Open to Software Engineering opportunities. 
+- Open to Data Science and Machine Learning opportunities. 
 
 ## Technical Skills
-- Programming: Java, Python, HTML, CSS, JavaScript, SQL.
-- Development: MongoDB, Express.js, React.js, Node.js.
+- Programming: Python, SQL.
+- Development: HTML, CSS, JavaScript, React.
 - Data Science: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
 - Tools: Git/GitHub, Jupyter Notebook, Visual Studio Code.
