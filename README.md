@@ -20,7 +20,4 @@
 - Social Media Website [GitHub](https://github.com/ujjwalkumar14b/Social_Media) | [Link](https://social-media-frontend-sigma-two.vercel.app)
 
 # Contact Me
-- Email: [Link](https://mailto:ujjwalkumar14b)
-- Portfolio: [Link](https://ujjwalkumar14b.github.io/me)
-- LinkedIn: [Link](https://www.linkedin.com/in/ujjwalkumar14b)
-- LeetCode: [Link](https://leetcode.com/u/ujjwalkumar14b)
+[Email](https://mailto:ujjwalkumar14b) | [Portfolio](https://ujjwalkumar14b.github.io/me) | [LinkedIn](https://www.linkedin.com/in/ujjwalkumar14b)| [LeetCode](https://leetcode.com/u/ujjwalkumar14b)
