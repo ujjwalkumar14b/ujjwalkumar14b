@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td>Product Recommendation System</td>
-      <td>`[GitHub](https://github.com/ujjwalkumar14b/Recommendation)`</td>
+      <td>[`GitHub`](https://github.com/ujjwalkumar14b/Recommendation)</td>
       <td>[Link](https://recommend-m0mw.onrender.com)</td>
     </tr>
     <tr>
