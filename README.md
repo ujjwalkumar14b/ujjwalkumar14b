@@ -1,7 +1,11 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
-## Professional Summary
 <table>
+    <tr>
+      <td>Designation</td>
+      <td>Organization</td>
+      <td>Duration</td>
+    </tr>
     <tr>
       <td>Engineering Student</td>
       <td>MIET Meerut</td>
@@ -22,15 +26,13 @@
       <td>Codomax Digital Solutions</td>
       <td>Jul 2026 - Aug 2026</td>
     </tr>
-    <tr>
-      <td>Open to Roles</td>
-      <td>Data Science</td>
-      <td>Machine Learning</td>
-    </tr>
 </table>
 
-## Technical Skills
 <table>
+    <tr>
+      <td>Category</td>
+      <td>Technical Skills</td>
+    </tr>
     <tr>
       <td>Programming</td>
       <td>Python, SQL.</td>
@@ -49,8 +51,12 @@
     </tr>
 </table>
 
-## Projects
 <table>
+    <tr>
+      <td>Project Name</td>
+      <td>Project Code</td>
+      <td>Project Link</td>
+    </tr>
     <tr>
       <td>Product Recommendation System</td>
       <td>[GitHub](https://github.com/ujjwalkumar14b/Recommendation)</td>
@@ -71,8 +77,27 @@
       <td>[GitHub](https://github.com/ujjwalkumar14b/Social_Media)</td>
       <td>[Link](https://social-media-frontend-sigma-two.vercel.app)</td>
     </tr>
-  </table>
+</table>
 
-
-# Contact Me
-[Email](https://mailto:ujjwalkumar14b) | [Portfolio](https://ujjwalkumar14b.github.io/me) | [LinkedIn](https://www.linkedin.com/in/ujjwalkumar14b)| [LeetCode](https://leetcode.com/u/ujjwalkumar14b)
+<table>
+    <tr>
+      <td>Contact</td>
+      <td>Link</td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>[Link](https://mailto:ujjwalkumar14b)</td>
+    </tr>
+    <tr>
+      <td>Portfolio</td>
+      <td>[Link](https://ujjwalkumar14b.github.io/me)</td>
+    </tr>
+    <tr>
+      <td>LinkedIn</td>
+      <td>[Link](https://www.linkedin.com/in/ujjwalkumar14b)</td>
+    </tr>
+    <tr>
+      <td>LeetCode</td>
+      <td>[Link](https://leetcode.com/u/ujjwalkumar14b)</td>
+    </tr>
+</table>
