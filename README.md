@@ -47,24 +47,29 @@
 <table>
     <tr>
       <td>Project Name</td>
-      <td>Code | Link</td>
+      <td>Project Code</td>
+      <td>Project Link</td>
     </tr>
     <tr>
       <td>🛒 Product Recommendation System</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a> <a href="https://recommend-m0mw.onrender.com">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a></td>
+      <td><a href="https://recommend-m0mw.onrender.com">Link</a></td>
       <td></td>
     </tr>
     <tr>
       <td>🚕 Ride Fare Dynamic Pricing</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Dynamic_Pricing">GitHub</a> <a href="https://dynamic-pricing-h35o.onrender.com">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Dynamic_Pricing">GitHub</a></td>
+      <td><a href="https://dynamic-pricing-h35o.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>💳 Credit Card Fraud Detection</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection">GitHub</a> <a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection">GitHub</a> </td>
+      <td><a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>🤝 Social Media Website</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a> <a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a></td>
+      <td><a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
     </tr>
 </table>
 <table>
