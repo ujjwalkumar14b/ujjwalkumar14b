@@ -59,23 +59,23 @@
     </tr>
     <tr>
       <td>Product Recommendation System</td>
-      <td>[`GitHub`](https://github.com/ujjwalkumar14b/Recommendation)</td>
-      <td>[Link](https://recommend-m0mw.onrender.com)</td>
+      <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a></td>
+      <td><a href="https://recommend-m0mw.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>Ride Fare Dynamic Pricing</td>
-      <td>[GitHub](https://github.com/ujjwalkumar14b/Dynamic_Pricing)</td>
-      <td>[Link](https://dynamic-pricing-h35o.onrender.com)</td>
+      <td><a href="https://github.com/ujjwalkumar14b/Dynamic_Pricing">GitHub</a></td>
+      <td><a href="https://dynamic-pricing-h35o.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>Credit Card Fraud Detection</td>
-      <td>[GitHub](https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection)</td>
-      <td>[Link](https://credit-card-fraud-detection-v4m8.onrender.com)</td>
+      <td><a href="https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection">GitHub</a></td>
+      <td><a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>Social Media Website</td>
-      <td>[GitHub](https://github.com/ujjwalkumar14b/Social_Media)</td>
-      <td>[Link](https://social-media-frontend-sigma-two.vercel.app)</td>
+      <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a></td>
+      <td><a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
     </tr>
 </table>
 
