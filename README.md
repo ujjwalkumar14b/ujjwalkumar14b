@@ -1,6 +1,6 @@
-<h1 align="center">UJJWAL KUMAR</h1>
+<h3 align="center">UJJWAL KUMAR</h1>
 
-<table align="center" width="700px">
+<table>
     <tr>
       <td>Contact</td>
       <td>Link</td>
@@ -21,7 +21,8 @@
       <td>🔗 LeetCode</td>
       <td>https://leetcode.com/u/ujjwalkumar14b</td>
     </tr>
-    <tr></tr>
+</table>
+<table>
     <tr>
       <td>Category</td>
       <td>Technical Skills</td>
@@ -42,7 +43,8 @@
       <td>4️⃣ Tools</td>
       <td>Git/GitHub, Jupyter Notebook, Visual Studio Code.</td>
     </tr>
-    <tr></tr>
+</table>
+<table>
     <tr>
       <td>Project Name</td>
       <td>Project Code | Project Link</td>
@@ -64,7 +66,8 @@
       <td>🤝 Social Media Website</td>
       <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a> | <a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
     </tr>
-    <tr></tr>
+</table>
+<table>
     <tr>
       <td>Designation</td>
       <td>Duration | Organization</td>
@@ -86,4 +89,3 @@
       <td>Jul 2026 - Aug 2026 | Codomax Digital Solutions</td>
     </tr>
 </table>
-
