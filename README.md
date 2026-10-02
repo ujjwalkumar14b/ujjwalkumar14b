@@ -15,7 +15,7 @@
 
 ## Projects
 - Product Recommendation System  [GitHub](https://github.com/ujjwalkumar14b/Recommendation) | [Link](https://recommend-m0mw.onrender.com)
-- Dynamic Pricing [GitHub](https://github.com/ujjwalkumar14b/Dynamic_Pricing) | [Link](https://dynamic-pricing-h35o.onrender.com)
+- Ride Fare Dynamic Pricing [GitHub](https://github.com/ujjwalkumar14b/Dynamic_Pricing) | [Link](https://dynamic-pricing-h35o.onrender.com)
 - Credit Card Fraud Detection [GitHub](https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection) | [Link](https://credit-card-fraud-detection-v4m8.onrender.com)
 - Social Media Website [GitHub](https://github.com/ujjwalkumar14b/Social_Media) | [Link](https://social-media-frontend-sigma-two.vercel.app)
 
