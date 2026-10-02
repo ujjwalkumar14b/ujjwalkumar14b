@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-      <td width="50%">Designation</td>
+      <td>Designation</td>
       <td>Organization</td>
       <td>Duration</td>
     </tr>
@@ -30,7 +30,7 @@
 
 <table>
     <tr>
-      <td width="50%">Category</td>
+      <td>Category</td>
       <td>Technical Skills</td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
 
 <table>
     <tr>
-      <td width="50%">Project Name</td>
+      <td>Project Name</td>
       <td>Project Code</td>
       <td>Project Link</td>
     </tr>
@@ -79,7 +79,7 @@
     </tr>
 </table>
 
-<table style="width: 37.5rem;">
+<table>
     <tr>
       <td>Contact</td>
       <td>Link</td>
