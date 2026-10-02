@@ -7,7 +7,7 @@
     </tr>
     <tr>
       <td>✉️ Email</td>
-      <td>https://mailto:ujjwalkumar14b@gmail.com</td>
+      <td>mailto:ujjwalkumar14b@gmail.com</td>
     </tr>
     <tr>
       <td>🌐 Portfolio</td>
@@ -20,11 +20,6 @@
     <tr>
       <td>🔗 LeetCode</td>
       <td>https://leetcode.com/u/ujjwalkumar14b</td>
-    </tr>
-    <tr>
-      <td>Designation</td>
-      <td>Organization</td>
-      <td>Duration</td>
     </tr>
     <tr></tr>
     <tr>
@@ -50,49 +45,45 @@
     <tr></tr>
     <tr>
       <td>Project Name</td>
-      <td>Project Code</td>
-      <td>Project Link</td>
+      <td>Project Code | Project Link</td>
     </tr>
     <tr>
       <td>🛒 Product Recommendation System</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a></td>
-      <td><a href="https://recommend-m0mw.onrender.com">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a> | <a href="https://recommend-m0mw.onrender.com">Link</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>🚕 Ride Fare Dynamic Pricing</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Dynamic_Pricing">GitHub</a></td>
-      <td><a href="https://dynamic-pricing-h35o.onrender.com">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Dynamic_Pricing">GitHub</a> | <a href="https://dynamic-pricing-h35o.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>💳 Credit Card Fraud Detection</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection">GitHub</a></td>
-      <td><a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection">GitHub</a> | <a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
     </tr>
     <tr>
       <td>🤝 Social Media Website</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a></td>
-      <td><a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
+      <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a> | <a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
     </tr>
     <tr></tr>
     <tr>
+      <td>Designation</td>
+      <td>Duration | Organization</td>
+    </tr>
+    <tr>
       <td>🎓 Engineering Student</td>
-      <td>MIET Meerut</td>
-      <td>Aug 2023 - Jun 2027</td>
+      <td>Aug 2023 - Jun 2027 | MIET Meerut</td>
     </tr>
     <tr>
       <td>🌐 Full Stack Developer</td>
-      <td>EduSkills Foundation</td>
-      <td>Oct 2024 - Dec 2024</td>
+      <td>Oct 2024 - Dec 2024 | EduSkills Foundation</td>
     </tr>
     <tr>
       <td>📊 Data Science Intern</td>
-      <td>AISECT LEARN</td>
-      <td>Nov 2025 - Jan 2026</td>
+      <td>Nov 2025 - Jan 2026 | AISECT LEARN</td>
     </tr>
     <tr>
       <td>🧑‍💻 AI-ML Intern</td>
-      <td>Codomax Digital Solutions</td>
-      <td>Jul 2026 - Aug 2026</td>
+      <td>Jul 2026 - Aug 2026 | Codomax Digital Solutions</td>
     </tr>
 </table>
 
