@@ -1,4 +1,4 @@
-<h3 align="center">UJJWAL KUMAR</h1>
+<h3>Ujjwal Kumar (Data Scientist and Machine Learning Engineer)</h1>
 
 <table>
     <tr>
