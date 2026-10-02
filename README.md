@@ -28,7 +28,7 @@
     </tr>
 </table>
 
-<table>
+<table width="37.5rem">
     <tr>
       <td>Category</td>
       <td>Technical Skills</td>
