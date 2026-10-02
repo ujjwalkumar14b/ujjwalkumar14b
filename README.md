@@ -2,12 +2,12 @@
 
 <table>
     <tr>
-      <td width="70%">Designation</td>
+      <td width="50%">Designation</td>
       <td>Organization</td>
       <td>Duration</td>
     </tr>
     <tr>
-      <td width="70%">Engineering Student</td>
+      <td>Engineering Student</td>
       <td>MIET Meerut</td>
       <td>Aug 2023 - Jun 2027</td>
     </tr>
@@ -28,9 +28,9 @@
     </tr>
 </table>
 
-<table width="70%">
+<table>
     <tr>
-      <td width="70%">Category</td>
+      <td width="50%">Category</td>
       <td>Technical Skills</td>
     </tr>
     <tr>
@@ -51,9 +51,9 @@
     </tr>
 </table>
 
-<table style="width: 37.5rem;">
+<table>
     <tr>
-      <td>Project Name</td>
+      <td width="50%">Project Name</td>
       <td>Project Code</td>
       <td>Project Link</td>
     </tr>
