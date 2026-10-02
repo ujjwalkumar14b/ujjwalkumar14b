@@ -86,18 +86,18 @@
     </tr>
     <tr>
       <td>Email</td>
-      <td>[Link](https://mailto:ujjwalkumar14b)</td>
+      <td>ujjwalkumar14b@gmail.com</td>
     </tr>
     <tr>
       <td>Portfolio</td>
-      <td>[Link](https://ujjwalkumar14b.github.io/me)</td>
+      <td>https://ujjwalkumar14b.github.io/me</td>
     </tr>
     <tr>
       <td>LinkedIn</td>
-      <td>[Link](https://www.linkedin.com/in/ujjwalkumar14b)</td>
+      <td>https://www.linkedin.com/in/ujjwalkumar14b</td>
     </tr>
     <tr>
       <td>LeetCode</td>
-      <td>[Link](https://leetcode.com/u/ujjwalkumar14b)</td>
+      <td>https://leetcode.com/u/ujjwalkumar14b</td>
     </tr>
 </table>
