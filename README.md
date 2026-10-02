@@ -1,6 +1,6 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
-<table>
+<table align="center" width="700px">
     <tr>
       <td>Contact</td>
       <td>Link</td>
