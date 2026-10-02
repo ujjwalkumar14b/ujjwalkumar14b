@@ -1,14 +1,36 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
 ## Professional Summary
-- Engineering Student at MIET Meerut. (Aug 2023 - Jun 2027)
-- Full Stack Developer at EduSkills Foundation. (Oct 2024 - Dec 2024)
-- Data Science Intern at AISECT LEARN. (Nov 2025 - Jan 2026)
-- AI-ML Intern at Codomax Digital Solutions. (Jul 2026 - Aug 2026)
-- Open to Data Science and Machine Learning opportunities. 
+<table>
+    <tr>
+      <td>Engineering Student</td>
+      <td>MIET Meerut</td>
+      <td>Aug 2023 - Jun 2027</td>
+    </tr>
+    <tr>
+      <td>Full Stack Developer</td>
+      <td>EduSkills Foundation</td>
+      <td>Oct 2024 - Dec 2024</td>
+    </tr>
+    <tr>
+      <td>Data Science Intern</td>
+      <td>AISECT LEARN</td>
+      <td>Nov 2025 - Jan 2026</td>
+    </tr>
+    <tr>
+      <td>AI-ML Intern</td>
+      <td>Codomax Digital Solutions</td>
+      <td>Jul 2026 - Aug 2026</td>
+    </tr>
+    <tr>
+      <td>Open to Roles</td>
+      <td>Data Science</td>
+      <td>Machine Learning</td>
+    </tr>
+</table>
 
 ## Technical Skills
-<table align="center">
+<table>
     <tr>
       <td>Programming</td>
       <td>Python, SQL.</td>
@@ -28,7 +50,7 @@
 </table>
 
 ## Projects
-<table align="center">
+<table>
     <tr>
       <td>Product Recommendation System</td>
       <td>[GitHub](https://github.com/ujjwalkumar14b/Recommendation)</td>
