@@ -54,7 +54,6 @@
       <td>🛒 Product Recommendation System</td>
       <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a></td>
       <td><a href="https://recommend-m0mw.onrender.com">Link</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>🚕 Ride Fare Dynamic Pricing</td>
@@ -75,22 +74,27 @@
 <table>
     <tr>
       <td>Designation</td>
-      <td>Duration | Organization</td>
+      <td>Organization</td>
+      <td>Duration</td>
     </tr>
     <tr>
       <td>🎓 Engineering Student</td>
-      <td>Aug 2023 - Jun 2027 | MIET Meerut</td>
+      <td>MIET Meerut</td>
+      <td>Aug 2023 - Jun 2027</td>
     </tr>
     <tr>
       <td>🌐 Full Stack Developer</td>
-      <td>Oct 2024 - Dec 2024 | EduSkills Foundation</td>
+      <td>EduSkills Foundation</td>
+      <td>Oct 2024 - Dec 2024</td>
     </tr>
     <tr>
       <td>📊 Data Science Intern</td>
-      <td>Nov 2025 - Jan 2026 | AISECT LEARN</td>
+      <td>AISECT LEARN</td>
+      <td>Nov 2025 - Jan 2026</td>
     </tr>
     <tr>
       <td>🧑‍💻 AI-ML Intern</td>
-      <td>Jul 2026 - Aug 2026 | Codomax Digital Solutions</td>
+      <td>Codomax Digital Solutions</td>
+      <td>Jul 2026 - Aug 2026</td>
     </tr>
 </table>
