@@ -1,6 +1,6 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
-<table width="600">
+<table width="70%">
     <tr>
       <td>Designation</td>
       <td>Organization</td>
@@ -28,7 +28,7 @@
     </tr>
 </table>
 
-<table width="600">
+<table width="70%">
     <tr>
       <td>Category</td>
       <td>Technical Skills</td>
