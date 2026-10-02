@@ -47,7 +47,7 @@
 <table>
     <tr>
       <td>Project Name</td>
-      <td>Project Code | Project Link</td>
+      <td>Code | Link</td>
     </tr>
     <tr>
       <td>🛒 Product Recommendation System</td>
