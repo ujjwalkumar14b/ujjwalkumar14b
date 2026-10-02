@@ -8,16 +8,49 @@
 - Open to Data Science and Machine Learning opportunities. 
 
 ## Technical Skills
-- Programming: Python, SQL.
-- Development: HTML, CSS, JavaScript, React.
-- Data Science: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
-- Tools: Git/GitHub, Jupyter Notebook, Visual Studio Code.
+<table align="center">
+    <tr>
+      <td>Programming</td>
+      <td>Python, SQL.</td>
+    </tr>
+    <tr>
+      <td>Development</td>
+      <td>HTML, CSS, JavaScript, React.</td>
+    </tr>
+    <tr>
+      <td>Data Science</td>
+      <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.</td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>Git/GitHub, Jupyter Notebook, Visual Studio Code.</td>
+    </tr>
+</table>
 
 ## Projects
-- Product Recommendation System  [GitHub](https://github.com/ujjwalkumar14b/Recommendation) | [Link](https://recommend-m0mw.onrender.com)
-- Ride Fare Dynamic Pricing [GitHub](https://github.com/ujjwalkumar14b/Dynamic_Pricing) | [Link](https://dynamic-pricing-h35o.onrender.com)
-- Credit Card Fraud Detection [GitHub](https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection) | [Link](https://credit-card-fraud-detection-v4m8.onrender.com)
-- Social Media Website [GitHub](https://github.com/ujjwalkumar14b/Social_Media) | [Link](https://social-media-frontend-sigma-two.vercel.app)
+<table align="center">
+    <tr>
+      <td>Product Recommendation System</td>
+      <td>[GitHub](https://github.com/ujjwalkumar14b/Recommendation)</td>
+      <td>[Link](https://recommend-m0mw.onrender.com)</td>
+    </tr>
+    <tr>
+      <td>Ride Fare Dynamic Pricing</td>
+      <td>[GitHub](https://github.com/ujjwalkumar14b/Dynamic_Pricing)</td>
+      <td>[Link](https://dynamic-pricing-h35o.onrender.com)</td>
+    </tr>
+    <tr>
+      <td>Credit Card Fraud Detection</td>
+      <td>[GitHub](https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection)</td>
+      <td>[Link](https://credit-card-fraud-detection-v4m8.onrender.com)</td>
+    </tr>
+    <tr>
+      <td>Social Media Website</td>
+      <td>[GitHub](https://github.com/ujjwalkumar14b/Social_Media)</td>
+      <td>[Link](https://social-media-frontend-sigma-two.vercel.app)</td>
+    </tr>
+  </table>
+
 
 # Contact Me
 [Email](https://mailto:ujjwalkumar14b) | [Portfolio](https://ujjwalkumar14b.github.io/me) | [LinkedIn](https://www.linkedin.com/in/ujjwalkumar14b)| [LeetCode](https://leetcode.com/u/ujjwalkumar14b)
