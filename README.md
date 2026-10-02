@@ -86,7 +86,7 @@
     </tr>
     <tr>
       <td>Email</td>
-      <td>ujjwalkumar14b@gmail.com</td>
+      <td>https://mailto:ujjwalkumar14b@gmail.com</td>
     </tr>
     <tr>
       <td>Portfolio</td>
