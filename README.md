@@ -1,13 +1,13 @@
 <h1 align="center">UJJWAL KUMAR</h1>
 
-<table width="70%">
+<table>
     <tr>
-      <td>Designation</td>
+      <td width="70%">Designation</td>
       <td>Organization</td>
       <td>Duration</td>
     </tr>
     <tr>
-      <td>Engineering Student</td>
+      <td width="70%">Engineering Student</td>
       <td>MIET Meerut</td>
       <td>Aug 2023 - Jun 2027</td>
     </tr>
@@ -30,7 +30,7 @@
 
 <table width="70%">
     <tr>
-      <td>Category</td>
+      <td width="70%">Category</td>
       <td>Technical Skills</td>
     </tr>
     <tr>
