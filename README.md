@@ -66,6 +66,11 @@
       <td><a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
     </tr>
     <tr>
+      <td>🔤 Text Summarizer</td>
+      <td><a href="https://github.com/ujjwalkumar14b/Text_Summarizer">GitHub</a></td>
+      <td><a href="https://text-summarizer-jkym.onrender.com">Link</a></td>
+    </tr>
+    <tr>
       <td>🤝 Social Media Website</td>
       <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a></td>
       <td><a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
