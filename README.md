@@ -22,6 +22,7 @@
       <td>https://leetcode.com/u/ujjwalkumar14b</td>
     </tr>
 </table>
+
 <table>
     <tr>
       <td>Category</td>
@@ -29,21 +30,18 @@
     </tr>
     <tr>
       <td>1️⃣ Programming</td>
-      <td>Python, SQL.</td>
-    </tr>
-    <tr>
-      <td>2️⃣ Development</td>
-      <td>HTML, CSS, JavaScript, React.</td>
+      <td>Python, SQL, HTML, CSS, JavaScript.</td>
     </tr>
     <tr>
       <td>3️⃣ Data Science</td>
-      <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.</td>
+      <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch.</td>
     </tr>
     <tr>
       <td>4️⃣ Tools</td>
-      <td>Git/GitHub, Jupyter Notebook, Visual Studio Code.</td>
+      <td>Git/GitHub, Jupyter Notebook, Google Colab, Visual Studio Code.</td>
     </tr>
 </table>
+
 <table>
     <tr>
       <td>Project Name</td>
@@ -76,6 +74,7 @@
       <td><a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
     </tr>
 </table>
+
 <table>
     <tr>
       <td>Designation</td>
