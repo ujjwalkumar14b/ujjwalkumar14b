@@ -33,11 +33,11 @@
       <td>Python, SQL, HTML, CSS, JavaScript.</td>
     </tr>
     <tr>
-      <td>3️⃣ Data Science</td>
+      <td>2️⃣ Data Science</td>
       <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch.</td>
     </tr>
     <tr>
-      <td>4️⃣ Tools</td>
+      <td>3️⃣ Tools</td>
       <td>Git/GitHub, Jupyter Notebook, Google Colab, Visual Studio Code.</td>
     </tr>
 </table>
