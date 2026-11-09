@@ -1,4 +1,4 @@
-<h1 style="text-align: center">UJJWAL KUMAR</h1>
+<h1>UJJWAL KUMAR</h1>
 
 Technical Skills
 - Programming: Python, SQL, HTML, CSS, JavaScript.
