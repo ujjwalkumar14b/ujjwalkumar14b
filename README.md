@@ -1,104 +1,14 @@
-<h3>Ujjwal Kumar (Data Scientist and Machine Learning Engineer)</h1>
+<h1 style="text-align: center">UJJWAL KUMAR</h1>
 
-<table>
-    <tr>
-      <td>Contact</td>
-      <td>Link</td>
-    </tr>
-    <tr>
-      <td>✉️ Email</td>
-      <td>ujjwalkumar14b@gmail.com</td>
-    </tr>
-    <tr>
-      <td>🌐 Portfolio</td>
-      <td>https://ujjwalkumar14b.github.io/me</td>
-    </tr>
-    <tr>
-      <td>🔗 LinkedIn</td>
-      <td>https://www.linkedin.com/in/ujjwalkumar14b</td>
-    </tr>
-    <tr>
-      <td>🔗 LeetCode</td>
-      <td>https://leetcode.com/u/ujjwalkumar14b</td>
-    </tr>
-</table>
+Technical Skills
+- Programming: Python, SQL, HTML, CSS, JavaScript.
+- Web Development: MongoDB, Express, Node, React.
+- Data Science: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch.
+- Tools: Git/GitHub, Jupyter Notebook, Google Colab, Visual Studio Code.
+   
+Experience
+- Full Stack Developer at EduSkills Foundation (Oct 2024 - Dec 2024).
+- Data Science Intern at AISECT LEARN (Nov 2025 - Jan 2026).
+- AI-ML Intern at Codomax Digital Solutions (Jul 2026 - Aug 2026).
 
-<table>
-    <tr>
-      <td>Category</td>
-      <td>Technical Skills</td>
-    </tr>
-    <tr>
-      <td>1️⃣ Programming</td>
-      <td>Python, SQL, HTML, CSS, JavaScript.</td>
-    </tr>
-    <tr>
-      <td>2️⃣ Data Science</td>
-      <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch.</td>
-    </tr>
-    <tr>
-      <td>3️⃣ Tools</td>
-      <td>Git/GitHub, Jupyter Notebook, Google Colab, Visual Studio Code.</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-      <td>Project Name</td>
-      <td>Project Code</td>
-      <td>Project Link</td>
-    </tr>
-    <tr>
-      <td>🛒 Product Recommendation System</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Recommendation">GitHub</a></td>
-      <td><a href="https://recommend-m0mw.onrender.com">Link</a></td>
-    </tr>
-    <tr>
-      <td>🚕 Ride Fare Dynamic Pricing</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Dynamic_Pricing">GitHub</a></td>
-      <td><a href="https://dynamic-pricing-h35o.onrender.com">Link</a></td>
-    </tr>
-    <tr>
-      <td>💳 Credit Card Fraud Detection</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Credit_Card_Fraud_Detection">GitHub</a> </td>
-      <td><a href="https://credit-card-fraud-detection-v4m8.onrender.com">Link</a></td>
-    </tr>
-    <tr>
-      <td>🔤 Text Summarizer</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Text_Summarizer">GitHub</a></td>
-      <td><a href="https://text-summarizer-jkym.onrender.com">Link</a></td>
-    </tr>
-    <tr>
-      <td>🤝 Social Media Website</td>
-      <td><a href="https://github.com/ujjwalkumar14b/Social_Media">GitHub</a></td>
-      <td><a href="https://social-media-frontend-sigma-two.vercel.app">Link</a></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-      <td>Designation</td>
-      <td>Organization</td>
-      <td>Duration</td>
-    </tr>
-    <tr>
-      <td>🎓 Engineering Student</td>
-      <td>MIET Meerut</td>
-      <td>Aug 2023 - Jun 2027</td>
-    </tr>
-    <tr>
-      <td>🌐 Full Stack Developer</td>
-      <td>EduSkills Foundation</td>
-      <td>Oct 2024 - Dec 2024</td>
-    </tr>
-    <tr>
-      <td>📊 Data Science Intern</td>
-      <td>AISECT LEARN</td>
-      <td>Nov 2025 - Jan 2026</td>
-    </tr>
-    <tr>
-      <td>🧑‍💻 AI-ML Intern</td>
-      <td>Codomax Digital Solutions</td>
-      <td>Jul 2026 - Aug 2026</td>
-    </tr>
-</table>
+Let’s connect if you’re interested in how data-driven strategies can drive your organization forward!
